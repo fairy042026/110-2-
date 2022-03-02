@@ -2,6 +2,8 @@
 內容分析
 散佈圖、衰退成長-調座標/拿出去年同期資料
 問卷一定要有編號
-安裝RStudio 
-<`https://www.rstudio.com/products/rstudio/download/`>
+安裝RStudio   
+  
+<`https://www.rstudio.com/products/rstudio/download/`>  
+  
 在R讀取EXCEL
